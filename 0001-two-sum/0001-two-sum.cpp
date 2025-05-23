@@ -8,7 +8,7 @@ public:
         for (int i = 0; i < n; i++) {
             int complement = target - nums[i];
             if (numMap.count(complement)) {
-                return {i, numMap[complement]};
+                return {numMap[complement],i};
             }
                 numMap[nums[i]] = i;
         }
