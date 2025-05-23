@@ -15,6 +15,7 @@
 | [0011-container-with-most-water](https://github.com/marimuthusanthosh/problemSolving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0012-integer-to-roman](https://github.com/marimuthusanthosh/problemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/marimuthusanthosh/problemSolving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0029-divide-two-integers) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
