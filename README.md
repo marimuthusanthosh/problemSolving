@@ -15,6 +15,7 @@
 | [0011-container-with-most-water](https://github.com/marimuthusanthosh/problemSolving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [0012-integer-to-roman](https://github.com/marimuthusanthosh/problemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/marimuthusanthosh/problemSolving/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/marimuthusanthosh/problemSolving/tree/master/0050-powx-n) |
 ## Recursion
 |  |
@@ -109,4 +111,8 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
