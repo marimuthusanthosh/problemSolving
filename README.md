@@ -20,6 +20,7 @@
 | [0040-combination-sum-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
 |  |
 | ------- |
