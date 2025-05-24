@@ -20,6 +20,7 @@
 | [0040-combination-sum-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0027-remove-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 ## Matrix
 |  |
 | ------- |
