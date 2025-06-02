@@ -44,6 +44,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0120-triangle) |
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +156,7 @@
 | [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0120-triangle) |
+| [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
