@@ -39,6 +39,7 @@
 | [0075-sort-colors](https://github.com/marimuthusanthosh/problemSolving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
@@ -145,6 +146,7 @@
 | [0063-unique-paths-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 ## Greedy
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 ## Memoization
 |  |
 | ------- |
@@ -223,10 +226,12 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/marimuthusanthosh/problemSolving/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/marimuthusanthosh/problemSolving/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
