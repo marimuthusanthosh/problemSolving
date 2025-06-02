@@ -43,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0120-triangle) |
+| [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/marimuthusanthosh/problemSolving/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -190,6 +193,7 @@
 | [0056-merge-intervals](https://github.com/marimuthusanthosh/problemSolving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/marimuthusanthosh/problemSolving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -261,4 +265,8 @@
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
