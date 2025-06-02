@@ -13,9 +13,7 @@ public:
           if(a[i]<=target)
           {
               d.push_back(a[i]);
-              target=target-a[i];
-              f(i,ans,target,d,a); 
-              target=target+a[i];
+              f(i,ans,target-a[i],d,a); 
               d.pop_back();
           }  
          f(i+1,ans,target,d,a); 
