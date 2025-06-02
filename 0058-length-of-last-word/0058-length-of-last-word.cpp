@@ -16,7 +16,6 @@ public:
                     {
                     break;
                     }
-                    // c=0;
                 }
           }   
 
