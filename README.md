@@ -38,6 +38,7 @@
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/marimuthusanthosh/problemSolving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
@@ -99,6 +100,7 @@
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/marimuthusanthosh/problemSolving/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/marimuthusanthosh/problemSolving/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0040-combination-sum-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/marimuthusanthosh/problemSolving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -192,6 +195,7 @@
 | [0064-minimum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 ## Memoization
 |  |
 | ------- |
@@ -233,4 +237,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/marimuthusanthosh/problemSolving/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
