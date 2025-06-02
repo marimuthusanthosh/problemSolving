@@ -42,6 +42,7 @@
 | [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0120-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0120-triangle) |
 ## Greedy
 |  |
 | ------- |
