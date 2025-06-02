@@ -18,6 +18,7 @@
 | [0027-remove-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/marimuthusanthosh/problemSolving/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/marimuthusanthosh/problemSolving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
@@ -33,6 +34,7 @@
 | [0012-integer-to-roman](https://github.com/marimuthusanthosh/problemSolving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/marimuthusanthosh/problemSolving/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/marimuthusanthosh/problemSolving/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/marimuthusanthosh/problemSolving/tree/master/0076-minimum-window-substring) |
 ## Linked List
@@ -124,6 +126,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/marimuthusanthosh/problemSolving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0040-combination-sum-ii) |
 ## String Matching
@@ -143,6 +146,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/marimuthusanthosh/problemSolving/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
