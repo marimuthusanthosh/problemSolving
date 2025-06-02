@@ -37,6 +37,7 @@
 | [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/marimuthusanthosh/problemSolving/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
@@ -162,6 +163,7 @@
 | [0039-combination-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/marimuthusanthosh/problemSolving/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
