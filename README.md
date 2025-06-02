@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/marimuthusanthosh/problemSolving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/marimuthusanthosh/problemSolving/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
 |  |
@@ -198,4 +200,5 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
