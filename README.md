@@ -209,6 +209,7 @@
 | [0101-symmetric-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/marimuthusanthosh/problemSolving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/marimuthusanthosh/problemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -216,12 +217,14 @@
 | [0101-symmetric-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/marimuthusanthosh/problemSolving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/marimuthusanthosh/problemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/marimuthusanthosh/problemSolving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/marimuthusanthosh/problemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -253,4 +256,5 @@
 | ------- |
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
