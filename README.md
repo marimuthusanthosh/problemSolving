@@ -69,6 +69,7 @@
 | [0013-roman-to-integer](https://github.com/marimuthusanthosh/problemSolving/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
