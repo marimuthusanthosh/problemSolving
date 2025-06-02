@@ -27,6 +27,7 @@
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/marimuthusanthosh/problemSolving/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -124,6 +125,7 @@
 | [0042-trapping-rain-water](https://github.com/marimuthusanthosh/problemSolving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/marimuthusanthosh/problemSolving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/marimuthusanthosh/problemSolving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
@@ -131,6 +133,7 @@
 | [0011-container-with-most-water](https://github.com/marimuthusanthosh/problemSolving/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/marimuthusanthosh/problemSolving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/marimuthusanthosh/problemSolving/tree/master/0055-jump-game) |
 ## Trie
 |  |
 | ------- |
