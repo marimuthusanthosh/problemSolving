@@ -4,7 +4,7 @@ public:
     int maxArea(vector<int>& a) 
     {
            int n=a.size();    
-            int i=0,j=n-1; 
+           int i=0,j=n-1; 
            int max=0,area=0; 
             while(i<j)
             {
