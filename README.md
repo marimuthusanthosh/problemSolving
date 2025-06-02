@@ -34,6 +34,7 @@
 | [0063-unique-paths-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/marimuthusanthosh/problemSolving/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -47,6 +48,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/marimuthusanthosh/problemSolving/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/marimuthusanthosh/problemSolving/tree/master/0076-minimum-window-substring) |
 ## Linked List
 |  |
@@ -182,6 +184,7 @@
 | [0059-spiral-matrix-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 ## Memoization
 |  |
