@@ -124,6 +124,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
