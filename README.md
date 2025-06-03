@@ -104,6 +104,7 @@
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/marimuthusanthosh/problemSolving/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0206-reverse-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/marimuthusanthosh/problemSolving/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
