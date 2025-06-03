@@ -108,6 +108,7 @@
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/marimuthusanthosh/problemSolving/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/marimuthusanthosh/problemSolving/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0371-sum-of-two-integers) |
 ## Recursion
@@ -217,6 +218,7 @@
 | [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/marimuthusanthosh/problemSolving/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -318,6 +320,7 @@
 | [0133-clone-graph](https://github.com/marimuthusanthosh/problemSolving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/marimuthusanthosh/problemSolving/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
