@@ -73,6 +73,7 @@
 | [0217-contains-duplicate](https://github.com/marimuthusanthosh/problemSolving/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0115-distinct-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -240,6 +242,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/marimuthusanthosh/problemSolving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
 ## Matrix
 |  |
 | ------- |
