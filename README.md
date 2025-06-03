@@ -70,6 +70,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/marimuthusanthosh/problemSolving/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0061-rotate-list) |
+| [0206-reverse-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0206-reverse-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/marimuthusanthosh/problemSolving/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/marimuthusanthosh/problemSolving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/marimuthusanthosh/problemSolving/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
 | ------- |
