@@ -95,6 +95,7 @@
 | [0062-unique-paths](https://github.com/marimuthusanthosh/problemSolving/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/marimuthusanthosh/problemSolving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0044-wildcard-matching](https://github.com/marimuthusanthosh/problemSolving/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/marimuthusanthosh/problemSolving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [0191-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/marimuthusanthosh/problemSolving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
 | ------- |
