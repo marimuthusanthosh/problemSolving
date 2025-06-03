@@ -202,6 +202,7 @@
 | [0029-divide-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/marimuthusanthosh/problemSolving/tree/master/0201-bitwise-and-of-numbers-range) |
 ## Sorting
 |  |
 | ------- |
