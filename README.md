@@ -262,6 +262,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,10 +284,12 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Stack
 |  |
 | ------- |
@@ -318,6 +321,7 @@
 | [0133-clone-graph](https://github.com/marimuthusanthosh/problemSolving/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Counting
 |  |
 | ------- |
