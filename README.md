@@ -55,6 +55,7 @@
 | [0219-contains-duplicate-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/marimuthusanthosh/problemSolving/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0219-contains-duplicate-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0066-plus-one](https://github.com/marimuthusanthosh/problemSolving/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +150,7 @@
 | [0035-search-insert-position](https://github.com/marimuthusanthosh/problemSolving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -230,6 +234,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/marimuthusanthosh/problemSolving/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +248,7 @@
 | [0217-contains-duplicate](https://github.com/marimuthusanthosh/problemSolving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
