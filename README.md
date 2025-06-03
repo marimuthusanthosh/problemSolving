@@ -57,6 +57,7 @@
 | [0238-product-of-array-except-self](https://github.com/marimuthusanthosh/problemSolving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +158,7 @@
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +186,7 @@
 | [0283-move-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -259,6 +263,7 @@
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
