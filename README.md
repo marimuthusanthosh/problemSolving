@@ -61,6 +61,7 @@
 | [0322-coin-change](https://github.com/marimuthusanthosh/problemSolving/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -82,6 +83,7 @@
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
@@ -182,6 +184,7 @@
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -288,6 +291,7 @@
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
 ## Matrix
@@ -389,6 +393,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0387-first-unique-character-in-a-string) |
 ## Graph
 |  |
@@ -402,10 +407,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -414,4 +421,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
