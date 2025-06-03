@@ -136,6 +136,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/marimuthusanthosh/problemSolving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
+| [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -216,6 +217,7 @@
 | [0078-subsets](https://github.com/marimuthusanthosh/problemSolving/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/marimuthusanthosh/problemSolving/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -273,6 +276,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Search Tree
 |  |
 | ------- |
