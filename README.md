@@ -148,6 +148,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 | [0344-reverse-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -214,6 +216,7 @@
 | [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
