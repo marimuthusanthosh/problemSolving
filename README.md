@@ -44,6 +44,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0120-triangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
 ## Hash Table
@@ -59,6 +60,7 @@
 | [0073-set-matrix-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/marimuthusanthosh/problemSolving/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/marimuthusanthosh/problemSolving/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 ## Linked List
 |  |
@@ -109,6 +111,7 @@
 | [0076-minimum-window-substring](https://github.com/marimuthusanthosh/problemSolving/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 ## Sliding Window
 |  |
 | ------- |
@@ -160,6 +163,7 @@
 | [0120-triangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
 ## Greedy
 |  |
@@ -173,6 +177,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -220,6 +225,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/marimuthusanthosh/problemSolving/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 ## Tree
 |  |
 | ------- |
