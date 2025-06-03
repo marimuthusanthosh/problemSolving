@@ -47,6 +47,7 @@
 | [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@
 | [0074-search-a-2d-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 ## Memoization
 |  |
 | ------- |
@@ -245,6 +247,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/marimuthusanthosh/problemSolving/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/marimuthusanthosh/problemSolving/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,6 +290,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/marimuthusanthosh/problemSolving/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 ## Counting
 |  |
 | ------- |
@@ -295,4 +299,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/marimuthusanthosh/problemSolving/tree/master/0133-clone-graph) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
