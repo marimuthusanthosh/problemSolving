@@ -56,6 +56,7 @@
 | [0229-majority-element-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/marimuthusanthosh/problemSolving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -175,6 +176,7 @@
 | [0088-merge-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0283-move-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
