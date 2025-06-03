@@ -252,6 +252,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
+| [0386-lexicographical-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0386-lexicographical-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -394,6 +395,7 @@
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0386-lexicographical-numbers) |
 ## Counting
 |  |
 | ------- |
