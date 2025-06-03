@@ -60,6 +60,7 @@
 | [0287-find-the-duplicate-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/marimuthusanthosh/problemSolving/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -237,6 +238,7 @@
 | [0055-jump-game](https://github.com/marimuthusanthosh/problemSolving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0334-increasing-triplet-subsequence) |
 ## Trie
 |  |
 | ------- |
