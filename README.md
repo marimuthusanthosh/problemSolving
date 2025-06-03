@@ -65,6 +65,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/marimuthusanthosh/problemSolving/tree/master/0377-combination-sum-iv) |
+| [0485-max-consecutive-ones](https://github.com/marimuthusanthosh/problemSolving/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
