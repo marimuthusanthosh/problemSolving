@@ -200,6 +200,7 @@
 | [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/marimuthusanthosh/problemSolving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
 | ------- |
@@ -239,6 +240,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
