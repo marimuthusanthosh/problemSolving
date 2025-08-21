@@ -1,22 +1,32 @@
 class Solution {
   public:
     int hIndex(vector<int>& citations) {
-        // code here
-    int n = citations.size();
+ priority_queue<pair<int,int>> maxHeap;
+        map<int,int> mp;  // key = citation, value = frequency
         
-        // Sort in descending order
-        sort(citations.begin(), citations.end(), greater<int>());
+        int n = citations.size();
         
-        int h = 0;
-        for (int i = 0; i < n; i++) {
-            if (citations[i] >= i + 1) {
-                h = i + 1;  // at least i+1 papers with >= i+1 citations
-            } else {
-                break;
-            }
+        // count frequency of each citation
+        for(int i=0; i<n; i++){
+            mp[citations[i]]++;
         }
+        
+        // push into maxHeap (citation, frequency)
+        for(auto &it : mp){
+            maxHeap.push({it.first, it.second});
+        }
+        
+        int h = 0, papers = 0;
+        
+        // process from largest citation downward
+        while(!maxHeap.empty()){
+            auto [c, f] = maxHeap.top();
+            maxHeap.pop();
+            
+            papers += f;  // total papers with at least 'c' citations
+            h = max(h, min(c, papers));
+        }
+        
         return h;
-
-
     }
 };
