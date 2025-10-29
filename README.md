@@ -124,6 +124,7 @@
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/1013-fibonacci-number) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -292,6 +293,7 @@
 | [0371-sum-of-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/marimuthusanthosh/problemSolving/tree/master/0476-number-complement) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
