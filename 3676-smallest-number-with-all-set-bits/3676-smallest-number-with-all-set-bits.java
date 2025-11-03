@@ -1,10 +1,18 @@
 class Solution {
     public int smallestNumber(int n) {
-        int k = 1;
-        while (true) {
-            int x = (1 << k) - 1;
-            if (x >= n) return x;
-            k++;
+
+        int a=1,ans=0;
+        if(n==1){
+            return 1;
         }
+
+       while(ans<n){
+
+        ans=ans+a;
+        System.out.println(a);
+        a=a<<1;
+       }
+        return ans; 
+        
     }
 }
