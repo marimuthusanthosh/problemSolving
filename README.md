@@ -67,6 +67,7 @@
 | [0377-combination-sum-iv](https://github.com/marimuthusanthosh/problemSolving/tree/master/0377-combination-sum-iv) |
 | [0485-max-consecutive-ones](https://github.com/marimuthusanthosh/problemSolving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0540-single-element-in-a-sorted-array) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/marimuthusanthosh/problemSolving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
