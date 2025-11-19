@@ -71,6 +71,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/marimuthusanthosh/problemSolving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -99,6 +100,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/marimuthusanthosh/problemSolving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -334,6 +336,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Matrix
 |  |
 | ------- |
@@ -418,6 +421,7 @@
 | [0043-multiply-strings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0059-spiral-matrix-ii) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Combinatorics
 |  |
