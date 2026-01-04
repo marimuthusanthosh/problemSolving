@@ -268,6 +268,7 @@
 | [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/1013-fibonacci-number) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
