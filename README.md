@@ -72,6 +72,7 @@
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/marimuthusanthosh/problemSolving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -285,6 +286,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0334-increasing-triplet-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/1975-maximum-matrix-sum) |
 ## Trie
 |  |
 | ------- |
@@ -356,6 +358,7 @@
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
+| [1975-maximum-matrix-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Memoization
