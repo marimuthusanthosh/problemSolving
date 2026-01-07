@@ -1,26 +1,28 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    static const int MOD = 1e9 + 7;
-    long long totalSum = 0;
-    long long maxProductVal = 0;
-
-    long long subtreeSum(TreeNode* root) {
+    const int mod=1e9+7;
+    long long ans=INT_MIN, total=0;
+    int dfs(TreeNode* root){
         if (!root) return 0;
-
-        long long left = subtreeSum(root->left);
-        long long right = subtreeSum(root->right);
-
-        long long curr = left + right + root->val;
-
-        maxProductVal = max(maxProductVal, curr * (totalSum - curr));
-
-        return curr;
+        int sum=root->val+dfs(root->left)+dfs(root->right);
+        ans=max(ans, (total-sum)*sum);
+        return sum;
     }
-
     int maxProduct(TreeNode* root) {
-        totalSum = subtreeSum(root);   // first pass to get total sum
-        maxProductVal = 0;
-        subtreeSum(root);              // second pass to compute products
-        return maxProductVal % MOD;
+        total=dfs(root);
+        dfs(root);
+    //    cout<<total<<", "<<ans<<endl;
+        return ans%mod;
     }
 };
