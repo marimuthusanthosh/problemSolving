@@ -69,6 +69,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/marimuthusanthosh/problemSolving/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/marimuthusanthosh/problemSolving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -272,6 +273,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0516-longest-palindromic-subsequence) |
 | [1013-fibonacci-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/1013-fibonacci-number) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
