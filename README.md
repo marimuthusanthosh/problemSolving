@@ -104,6 +104,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -381,6 +382,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -395,6 +397,7 @@
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/marimuthusanthosh/problemSolving/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/marimuthusanthosh/problemSolving/tree/master/0322-coin-change) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -408,6 +411,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
@@ -454,6 +458,7 @@
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0386-lexicographical-numbers) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Counting
