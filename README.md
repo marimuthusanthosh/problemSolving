@@ -68,6 +68,7 @@
 | [0485-max-consecutive-ones](https://github.com/marimuthusanthosh/problemSolving/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/marimuthusanthosh/problemSolving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/marimuthusanthosh/problemSolving/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/marimuthusanthosh/problemSolving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -144,6 +145,7 @@
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/1013-fibonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/marimuthusanthosh/problemSolving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/marimuthusanthosh/problemSolving/tree/master/1390-four-divisors) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -501,4 +503,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/0347-top-k-frequent-elements) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/marimuthusanthosh/problemSolving/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
