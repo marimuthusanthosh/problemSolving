@@ -80,6 +80,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/marimuthusanthosh/problemSolving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -334,6 +335,7 @@
 | [0371-sum-of-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/marimuthusanthosh/problemSolving/tree/master/0476-number-complement) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
