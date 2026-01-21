@@ -69,6 +69,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/marimuthusanthosh/problemSolving/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/marimuthusanthosh/problemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1390-four-divisors](https://github.com/marimuthusanthosh/problemSolving/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/marimuthusanthosh/problemSolving/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/marimuthusanthosh/problemSolving/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -217,6 +218,7 @@
 | [0287-find-the-duplicate-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0540-single-element-in-a-sorted-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/marimuthusanthosh/problemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -366,6 +368,7 @@
 | [0079-word-search](https://github.com/marimuthusanthosh/problemSolving/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/marimuthusanthosh/problemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/marimuthusanthosh/problemSolving/tree/master/1895-largest-magic-square) |
 | [1975-maximum-matrix-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -497,6 +500,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/marimuthusanthosh/problemSolving/tree/master/0238-product-of-array-except-self) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/marimuthusanthosh/problemSolving/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/marimuthusanthosh/problemSolving/tree/master/1895-largest-magic-square) |
 ## Queue
 |  |
