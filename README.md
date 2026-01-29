@@ -80,6 +80,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/marimuthusanthosh/problemSolving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -356,6 +357,7 @@
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Matrix
 |  |
 | ------- |
