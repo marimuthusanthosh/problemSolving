@@ -26,6 +26,7 @@
 | [0046-permutations](https://github.com/marimuthusanthosh/problemSolving/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/marimuthusanthosh/problemSolving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/marimuthusanthosh/problemSolving/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/marimuthusanthosh/problemSolving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/marimuthusanthosh/problemSolving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/marimuthusanthosh/problemSolving/tree/master/0056-merge-intervals) |
@@ -228,6 +229,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/marimuthusanthosh/problemSolving/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/marimuthusanthosh/problemSolving/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/0191-number-of-1-bits) |
@@ -263,6 +265,7 @@
 | [0042-trapping-rain-water](https://github.com/marimuthusanthosh/problemSolving/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/marimuthusanthosh/problemSolving/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/marimuthusanthosh/problemSolving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/marimuthusanthosh/problemSolving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/marimuthusanthosh/problemSolving/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0063-unique-paths-ii) |
