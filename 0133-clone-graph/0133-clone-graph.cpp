@@ -13,7 +13,7 @@ public:
         Node* current=q.front(); 
         q.pop();
         for(Node* neigh :current->neighbors){  
-            if(mp.find(neigh)==mp.end()){  
+            if(!mp.contains(neigh)){  
                 mp[neigh]=new Node(neigh->val);
                 q.push(neigh);
             }
