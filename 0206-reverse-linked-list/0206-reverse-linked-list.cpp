@@ -23,6 +23,6 @@ public:
             current = next1;       
         }
         head = prev; 
-   return head;
+      return head;
     }
 };
