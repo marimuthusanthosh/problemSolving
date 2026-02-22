@@ -201,6 +201,7 @@
 | [0139-word-break](https://github.com/marimuthusanthosh/problemSolving/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/marimuthusanthosh/problemSolving/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0387-first-unique-character-in-a-string) |
@@ -423,6 +424,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -438,6 +440,7 @@
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/marimuthusanthosh/problemSolving/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/marimuthusanthosh/problemSolving/tree/master/0322-coin-change) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -454,6 +457,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -501,6 +505,7 @@
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0386-lexicographical-numbers) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -558,4 +563,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/marimuthusanthosh/problemSolving/tree/master/0133-clone-graph) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
