@@ -1,7 +1,7 @@
 class Solution {
 public:
     int numSteps(string s) {
-        int n = (int)s.size();
+        int n = s.size();
         int carry = 0;
         int steps = 0;
 
