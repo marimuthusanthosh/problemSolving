@@ -1,0 +1,26 @@
+class Solution {
+  public:
+    bool areIsomorphic(string &s, string &t) {
+        // code here
+
+
+        if(s.length() != t.length())
+            return false;
+
+        int m1[256] = {0};
+        int m2[256] = {0};
+
+        for(int i = 0; i < s.length(); i++) {
+
+            if(m1[s[i]] != m2[t[i]])
+                return false;
+
+            // store i+1 to avoid default 0 confusion
+            m1[s[i]] = i + 1;
+            m2[t[i]] = i + 1;
+        }
+
+        return true;
+        
+    }
+};
