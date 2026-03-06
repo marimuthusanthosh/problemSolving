@@ -223,6 +223,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/marimuthusanthosh/problemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3713-longest-balanced-substring-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
