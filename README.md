@@ -595,4 +595,8 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
