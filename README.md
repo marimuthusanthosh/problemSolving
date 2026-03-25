@@ -217,6 +217,7 @@
 | [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/marimuthusanthosh/problemSolving/tree/master/0424-longest-repeating-character-replacement) |
+| [0449-serialize-and-deserialize-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0516-longest-palindromic-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -445,6 +446,7 @@
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -463,6 +465,7 @@
 | [0279-perfect-squares](https://github.com/marimuthusanthosh/problemSolving/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/marimuthusanthosh/problemSolving/tree/master/0322-coin-change) |
+| [0449-serialize-and-deserialize-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
@@ -480,6 +483,7 @@
 | [0226-invert-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -489,6 +493,7 @@
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0449-serialize-and-deserialize-bst) |
 ## Stack
 |  |
 | ------- |
@@ -532,6 +537,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0386-lexicographical-numbers) |
+| [0449-serialize-and-deserialize-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0449-serialize-and-deserialize-bst) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/marimuthusanthosh/problemSolving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -595,6 +601,7 @@
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/marimuthusanthosh/problemSolving/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/marimuthusanthosh/problemSolving/tree/master/0449-serialize-and-deserialize-bst) |
 ## Union-Find
 |  |
 | ------- |
