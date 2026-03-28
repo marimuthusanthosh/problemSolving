@@ -94,6 +94,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/marimuthusanthosh/problemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3546-equal-sum-grid-partition-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3546-equal-sum-grid-partition-i) |
@@ -173,6 +174,7 @@
 | [1390-four-divisors](https://github.com/marimuthusanthosh/problemSolving/tree/master/1390-four-divisors) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/marimuthusanthosh/problemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/marimuthusanthosh/problemSolving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
@@ -433,6 +435,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2906-construct-product-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/marimuthusanthosh/problemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3546-equal-sum-grid-partition-i) |
 ## Memoization
 |  |
@@ -530,6 +533,7 @@
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/marimuthusanthosh/problemSolving/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Combinatorics
 |  |
 | ------- |
