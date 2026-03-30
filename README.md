@@ -131,6 +131,7 @@
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/marimuthusanthosh/problemSolving/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/marimuthusanthosh/problemSolving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -233,6 +234,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/marimuthusanthosh/problemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
@@ -411,6 +413,7 @@
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 ## Matrix
 |  |
