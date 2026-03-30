@@ -234,6 +234,7 @@
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/marimuthusanthosh/problemSolving/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/marimuthusanthosh/problemSolving/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
