@@ -1,16 +1,17 @@
 class Solution {
-  public:
-  
+public:
+    int solve(int n, int k, vector<int> &dp) {
+        if (n == 1) return k;
+        if (n == 2) return k * k;
+
+        if (dp[n] != -1) return dp[n];
+
+        dp[n] = (k - 1) * (solve(n - 1, k, dp) + solve(n - 2, k, dp));
+        return dp[n];
+    }
+
     int countWays(int n, int k) {
-        // code here
-        if(n==1) return k;
-        int one=k;
-        int two=k*k;
-        for(int i=3; i<=n; i++){
-            int three=(k-1)*(one+two);
-            one=two;
-            two=three;
-        }
-        return two;
+        vector<int> dp(n + 1, -1);
+        return solve(n, k, dp);
     }
 };
