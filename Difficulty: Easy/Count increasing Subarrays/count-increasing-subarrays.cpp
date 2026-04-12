@@ -1,16 +1,31 @@
 class Solution {
   public:
     int countIncreasing(vector<int>& arr) {
+        
         int n=arr.size();
-        if(n<2) return 0;
-        int left=0, right=1, cnt=0;
-        while(right<n){
-            if(arr[right-1]<arr[right])
-                cnt+=(right-left);
-            else
-                left=right;
-            right++;
+        
+        if(n<2){
+            
+        return 0;
         }
-        return cnt;
+        
+        int l=0, r=1, c=0;
+        
+        while(r<n){
+            
+            if(arr[r]>arr[r-1]){
+                
+                c=c+(r-l);
+            }
+            else
+            {
+                
+              l=r;
+            }
+            
+            r++;
+        }
+        return c;
+        
     }
 };
