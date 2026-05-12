@@ -71,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/marimuthusanthosh/problemSolving/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/marimuthusanthosh/problemSolving/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/marimuthusanthosh/problemSolving/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -171,6 +172,7 @@
 | [0326-power-of-three](https://github.com/marimuthusanthosh/problemSolving/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/marimuthusanthosh/problemSolving/tree/master/0371-sum-of-two-integers) |
+| [0396-rotate-function](https://github.com/marimuthusanthosh/problemSolving/tree/master/0396-rotate-function) |
 | [1013-fibonacci-number](https://github.com/marimuthusanthosh/problemSolving/tree/master/1013-fibonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/marimuthusanthosh/problemSolving/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/marimuthusanthosh/problemSolving/tree/master/1390-four-divisors) |
@@ -332,6 +334,7 @@
 | [0368-largest-divisible-subset](https://github.com/marimuthusanthosh/problemSolving/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/marimuthusanthosh/problemSolving/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/marimuthusanthosh/problemSolving/tree/master/0396-rotate-function) |
 | [0516-longest-palindromic-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0647-palindromic-substrings) |
