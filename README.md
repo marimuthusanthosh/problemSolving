@@ -232,6 +232,7 @@
 | [0647-palindromic-substrings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/marimuthusanthosh/problemSolving/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0796-rotate-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/marimuthusanthosh/problemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -380,6 +381,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
