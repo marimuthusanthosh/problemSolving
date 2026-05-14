@@ -3,31 +3,24 @@ public:
 
     bool isGood(vector<int>& nums) {
 
-        map<int,int> mp;
+        sort(nums.begin(), nums.end());
 
-        int maxi = INT_MIN;
+        int n = nums.size();
 
-        for (int i = 0; i < nums.size(); i++) {
-
-            mp[nums[i]]++;
-
-            maxi = max(maxi, nums[i]);
-        }
-
-        // size must be n+1
-        if (nums.size() != maxi + 1) {
+        // minimum valid array is [1,1]
+        if (n < 2) {
             return false;
         }
 
-        // largest element must appear twice
-        if (mp[maxi] != 2) {
+        // last two elements must be same
+        if (nums[n - 1] != nums[n - 2]) {
             return false;
         }
 
-        // 1 to maxi-1 must appear once
-        for (int i = 1; i < maxi; i++) {
+        // check 1 to n-1
+        for (int i = 0; i < n - 1; i++) {
 
-            if (mp[i] != 1) {
+            if (nums[i] != i + 1) {
                 return false;
             }
         }
