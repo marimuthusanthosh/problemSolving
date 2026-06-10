@@ -104,6 +104,7 @@
 | [3546-equal-sum-grid-partition-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/marimuthusanthosh/problemSolving/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -362,6 +363,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/1975-maximum-matrix-sum) |
+| [3689-maximum-total-subarray-value-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
 | ------- |
