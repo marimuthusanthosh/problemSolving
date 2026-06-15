@@ -154,6 +154,7 @@
 | [0234-palindrome-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -308,6 +309,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/marimuthusanthosh/problemSolving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0647-palindromic-substrings) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
