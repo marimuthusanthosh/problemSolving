@@ -238,6 +238,7 @@
 | [0657-robot-return-to-origin](https://github.com/marimuthusanthosh/problemSolving/tree/master/0657-robot-return-to-origin) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/marimuthusanthosh/problemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -537,6 +538,7 @@
 | [0085-maximal-rectangle](https://github.com/marimuthusanthosh/problemSolving/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0394-decode-string) |
+| [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -650,4 +652,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/marimuthusanthosh/problemSolving/tree/master/0200-number-of-islands) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
