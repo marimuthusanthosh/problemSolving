@@ -239,6 +239,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/marimuthusanthosh/problemSolving/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/marimuthusanthosh/problemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/marimuthusanthosh/problemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -363,6 +364,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/marimuthusanthosh/problemSolving/tree/master/0334-increasing-triplet-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/marimuthusanthosh/problemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/1975-maximum-matrix-sum) |
@@ -539,6 +541,7 @@
 | [0234-palindrome-linked-list](https://github.com/marimuthusanthosh/problemSolving/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/marimuthusanthosh/problemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -656,4 +659,5 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/marimuthusanthosh/problemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
