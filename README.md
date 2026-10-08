@@ -240,6 +240,7 @@
 | [0796-rotate-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/marimuthusanthosh/problemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/1021-remove-outermost-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/marimuthusanthosh/problemSolving/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -542,6 +543,7 @@
 | [0394-decode-string](https://github.com/marimuthusanthosh/problemSolving/tree/master/0394-decode-string) |
 | [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/marimuthusanthosh/problemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/1021-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -660,4 +662,5 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/marimuthusanthosh/problemSolving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/marimuthusanthosh/problemSolving/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
