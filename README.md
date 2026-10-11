@@ -95,6 +95,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/marimuthusanthosh/problemSolving/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/2906-construct-product-matrix) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -642,6 +643,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3546-equal-sum-grid-partition-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3713-longest-balanced-substring-i) |
 ## Graph Theory
