@@ -95,6 +95,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/marimuthusanthosh/problemSolving/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/marimuthusanthosh/problemSolving/tree/master/2906-construct-product-matrix) |
@@ -371,6 +372,7 @@
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/marimuthusanthosh/problemSolving/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/marimuthusanthosh/problemSolving/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1975-maximum-matrix-sum](https://github.com/marimuthusanthosh/problemSolving/tree/master/1975-maximum-matrix-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3689-maximum-total-subarray-value-i](https://github.com/marimuthusanthosh/problemSolving/tree/master/3689-maximum-total-subarray-value-i) |
 ## Trie
 |  |
@@ -435,6 +437,7 @@
 | [0389-find-the-difference](https://github.com/marimuthusanthosh/problemSolving/tree/master/0389-find-the-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/marimuthusanthosh/problemSolving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/marimuthusanthosh/problemSolving/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/marimuthusanthosh/problemSolving/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2784-check-if-array-is-good](https://github.com/marimuthusanthosh/problemSolving/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/marimuthusanthosh/problemSolving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/marimuthusanthosh/problemSolving/tree/master/2943-maximize-area-of-square-hole-in-grid) |
